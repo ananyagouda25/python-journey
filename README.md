@@ -1,16 +1,20 @@
-# beginner-patterns
+# Beginner Python Patterns 🐍
 This repository contains the first pattern programs I wrote while learning Python.
 
-# Patterns
+# ⭐ Patterns
 - star square
 - right triangle
 - number triangle
 - inverted right triangle
-- floyd triangle
+- floyd's triangle
 - butterfly
 - hollow right triangle
 - hollow square
-- multiplication table
+
+# 🧠 Logic-Based Programs
 - luhn's algorithm (only supports 14 and 16 digit card numbers)
 - palindrome
+- multiplication table
+
+# 🌸 Mini-projects
 - contact management system
