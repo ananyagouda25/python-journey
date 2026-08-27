@@ -18,4 +18,7 @@ This repository contains the first pattern programs I wrote while learning Pytho
 
 # 🌸 Mini-projects
 - contact management system
+
+# 🫡 Random-LeetCode Problems
 - roman to integer (#LeetCode-13)
+- valid palindrome (#LeetCode-125)
