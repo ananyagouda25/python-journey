@@ -1,5 +1,6 @@
 # Program: It calculates the square root of a number without using the existing mathematical functions.
 # Concepts: Binary search
+# Time: O(log x) | Space: O(1)
 
 class Solution:
     def mySqrt(self,x:int)-> int:
