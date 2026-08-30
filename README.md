@@ -26,4 +26,5 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - roman to integer (#LeetCode-13)
 - valid palindrome (#LeetCode-125)
 - sqrt(x) (#LeetCode-69)
+- valid anagram (#LeetCode-242)
 - 
