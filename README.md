@@ -27,4 +27,10 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - valid palindrome (#LeetCode-125)
 - sqrt(x) (#LeetCode-69)
 - valid anagram (#LeetCode-242)
+- happy number (#LeetCode-202)
+- matrix diagnol sum (#LeetCode-1572)
+- repeated substring (#LeetCode-28)
+- fizz buzz (#LeetCode-412)
+- fibonacci num (#LeetCode-509)
+- number of common factors (#LeetCode-2427)
 - 
