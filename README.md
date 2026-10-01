@@ -23,6 +23,7 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - 
 
 # 🫡 Random-LeetCode Problems
+  *EASY*
 - roman to integer (#LeetCode-13)
 - valid palindrome (#LeetCode-125)
 - sqrt(x) (#LeetCode-69)
@@ -33,4 +34,7 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - fizz buzz (#LeetCode-412)
 - fibonacci num (#LeetCode-509)
 - number of common factors (#LeetCode-2427)
+-
+  *MEDIUM*
+- reverse integer (#LeetCode -7)
 - 
