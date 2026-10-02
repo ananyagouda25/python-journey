@@ -34,7 +34,8 @@ This repository contains the first pattern programs I wrote while learning Pytho
 - fizz buzz (#LeetCode-412)
 - fibonacci num (#LeetCode-509)
 - number of common factors (#LeetCode-2427)
--
+- length of last word (#LeetCode -58)
+- 
   *MEDIUM*
 - reverse integer (#LeetCode -7)
 - 
