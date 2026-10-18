@@ -24,18 +24,25 @@ This repository contains the first pattern programs I wrote while learning Pytho
 
 # 🫡 Random-LeetCode Problems
   *EASY*
-- roman to integer (#LeetCode-13)
-- valid palindrome (#LeetCode-125)
-- sqrt(x) (#LeetCode-69)
-- valid anagram (#LeetCode-242)
-- happy number (#LeetCode-202)
-- matrix diagnol sum (#LeetCode-1572)
-- repeated substring (#LeetCode-28)
-- fizz buzz (#LeetCode-412)
-- fibonacci num (#LeetCode-509)
-- number of common factors (#LeetCode-2427)
-- length of last word (#LeetCode -58)
-- 
+1. roman to integer (#LeetCode-13)
+2. valid palindrome (#LeetCode-125)
+3. sqrt(x) (#LeetCode-69)
+4. valid anagram (#LeetCode-242)
+5. happy number (#LeetCode-202)
+6. matrix diagonal sum (#LeetCode-1572)
+7. repeated substring (#LeetCode-28)
+8. fizz buzz (#LeetCode-412)
+9. fibonacci num (#LeetCode-509)
+10. number of common factors (#LeetCode-2427)
+11. length of last word (#LeetCode -58)
+12. pascal's triangle (#LeetCode -118)
+13. pascal's triangle II (#LeetCode -119)
+14. greatest common divisor in array (#LeetCode -1979)
+15. ugly number (#LeetCode -263)
+16. palindrome number (#LeetCode -9)
+17. 
+
+ 
   *MEDIUM*
-- reverse integer (#LeetCode -7)
+1. reverse integer (#LeetCode -7)
 - 
