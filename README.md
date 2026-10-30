@@ -40,7 +40,11 @@ This repository contains the first pattern programs I wrote while learning Pytho
 14. greatest common divisor in array (#LeetCode -1979)
 15. ugly number (#LeetCode -263)
 16. palindrome number (#LeetCode -9)
-17. 
+17. reverse string (#LeetCode -344)
+18. two sum (#LeetCode -1)
+19. power of two (#LeetCode -231)
+20. add strings (#LeetCode -415)
+21. 
 
  
   *MEDIUM*
