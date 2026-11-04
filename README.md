@@ -44,9 +44,10 @@ This repository contains the first pattern programs I wrote while learning Pytho
 18. two sum (#LeetCode -1)
 19. power of two (#LeetCode -231)
 20. add strings (#LeetCode -415)
-21. 
+21. binary search (#LeetCode -704)
+22. 
 
  
   *MEDIUM*
 1. reverse integer (#LeetCode -7)
-- 
+2. 
